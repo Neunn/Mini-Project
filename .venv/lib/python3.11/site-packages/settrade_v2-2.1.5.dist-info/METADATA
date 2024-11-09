@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: settrade-v2
+Version: 2.1.5
+Requires-Python: >=3.6.0
+Requires-Dist: requests >=2.27
+Requires-Dist: cryptography >=37.0
+Requires-Dist: betterproto >=1.2
+Requires-Dist: paho-mqtt <2,>=1.6
+Requires-Dist: ntplib >=0.4
+Requires-Dist: typing-extensions >=4.1
+
