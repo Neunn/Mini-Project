@@ -3,3 +3,4 @@ Source/user-info.properties
 .gitignore
 .$Project Flowchart.drawio.bkp
 .venv
+Source/test.ipynb
